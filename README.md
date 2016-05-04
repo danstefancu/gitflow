@@ -1,15 +1,15 @@
 HubFlow
 =======
 
-Adds the 'git hf' Git extension to provide high-level repository operations
+Adds the `git hf` Git extension to provide high-level repository operations
 for [DataSift's HubFlow branching model](http://datasift.github.com/gitflow/), which is based on [Vincent Driessen’s original blog post](http://nvie.com/posts/a-successful-git-branching-model/).
 
 
 Installation (windows)
 ----------------------
 
-1. `git clone git@github.com:datasift/gitflow.git ~/gitflow`
-2. Add `~/gitflow` to `$PATH` environment variable
+1. `git clone https://github.com/danstefancu/hubflow.git ~/hubflow`
+2. Add `~/hubflow` to `$PATH` environment variable
 
 
 Usage
